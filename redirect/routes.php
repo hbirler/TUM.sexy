@@ -234,7 +234,7 @@ class Route {
         ],
         'qo'           => [
             'description' => 'Query Optimization',
-            'target'      => 'https://db.in.tum.de/teaching/ws1718/queryopt/',
+            'target'      => 'https://db.in.tum.de/teaching/ws1819/queryopt/?lang=en',
         ],
         'geo'          => [
             'description' => 'Geometriekalküle',
