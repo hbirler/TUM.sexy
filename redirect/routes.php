@@ -475,6 +475,10 @@ class Route {
             'description' => 'Medizin 1',
             'moodle_id'      => '52166',
         ],
+        'cvvm'     => [
+            'description' => 'Computer Vision I: Variational Methods',
+            'target'      => 'https://vision.in.tum.de/teaching/ws2019/cvvm_ws19',
+        ],
     ];
 
     // Format is: <source / synonym> => <target> - the target must be present in the $routes array
